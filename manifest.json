@@ -1,0 +1,23 @@
+{
+  "name": "Orbit Dash",
+  "short_name": "OrbitDash",
+  "description": "Collect all shards, avoid hazards, and reach the warp gate!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#7dd3fc",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iOTYiIGN5PSI5NiIgcj0iOTYiIGZpbGw9IiMwYjEwMjAiLz4KICA8Y2lyY2xlIGN4PSI5NiIgY3k9Ijk2IiByPSI3MCIgZmlsbD0iIzc4ZDNmYyIgZmlsbC1vcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI5NiIgY3k9Ijk2IiByPSI0MCIgZmlsbD0iI2MwODRmYyIvPgogIDxjaXJjbGUgY3g9Ijk2IiBjeT0iOTYiIHI9IjE1IiBmaWxsPSIjZThmMGZmIi8+Cjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIyNTYiIGZpbGw9IiMwYjEwMjAiLz4KICA8Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjE4MCIgZmlsbD0iIzc4ZDNmYyIgZmlsbC1vcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjEwNCIgZmlsbD0iI2MwODRmYyIvPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iNDAiIGZpbGw9IiNlOGYwZmYiLz4KPC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["games", "entertainment"]
+}
